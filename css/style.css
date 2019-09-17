@@ -1,5 +1,29 @@
 body {
-    background: lightcoral;
+    background-image: url('../images/Dragon_bg.jpg');
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-color: black;
+
 
     
+}
+
+#navIcon {
+    height: 2em;
+    text-shadow: 2px 2px red;
+
+}
+
+h1 {
+    text-shadow: 1px 1px black;
+
+}
+
+.container {
+    background: white;
+    opacity: .8;
+    color: rgba(209, 38, 38, 0.945);
+    margin: 10%;
+    width: 40%;
+
 }
